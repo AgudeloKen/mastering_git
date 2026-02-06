@@ -1,1 +1,3 @@
-Hello git i'm adding this from feature-branch
+Hey yoo eveyone welcome to my guide!
+
+Ken here!
